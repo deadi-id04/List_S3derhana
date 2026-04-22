@@ -1,6 +1,6 @@
 Tugas Pemrograman Piranti Bergerak
 Membuat List Sederhana
-Identitas
+
 Nama: Gede Adhi Krishna Nugraha
 NIM: 230040069
 🖼️ Hasil Tampilan Aplikasi
